@@ -1,0 +1,61 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "OPULA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "OPULA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RegDestino",
+					"strict" : false
+				},
+				{
+					"name" : "Jump",
+					"strict" : false
+				},
+				{
+					"name" : "Branch",
+					"strict" : false
+				},
+				{
+					"name" : "LeMem",
+					"strict" : false
+				},
+				{
+					"name" : "EscMem",
+					"strict" : false
+				},
+				{
+					"name" : "MemParaReg",
+					"strict" : false
+				},
+				{
+					"name" : "EscReg",
+					"strict" : false
+				},
+				{
+					"name" : "OPCode[2]",
+					"strict" : false
+				},
+				{
+					"name" : "OPCode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "OPCode[3]",
+					"strict" : false
+				},
+				{
+					"name" : "OPCode[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

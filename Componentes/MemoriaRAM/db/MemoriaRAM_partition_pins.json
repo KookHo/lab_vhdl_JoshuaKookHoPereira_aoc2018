@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SaiData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[7]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[8]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[9]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[10]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[11]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[12]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[13]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[14]",
+					"strict" : false
+				},
+				{
+					"name" : "SaiData[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Endereco[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Endereco[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Endereco[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Endereco[3]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "EscMem",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[2]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[6]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[7]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[8]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[9]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[10]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[11]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[12]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[13]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[14]",
+					"strict" : false
+				},
+				{
+					"name" : "EscData[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
